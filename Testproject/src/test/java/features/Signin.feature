@@ -1,7 +1,7 @@
 Feature: SignIn Page
 Scenario: SignIn Page with  New user Account Creation
 
-Given User is on "http://automationpractice.com/index.php" page and "practicetest@gmail.com"
+Given User is on "http://automationpractice.com/index.php" page and "practicet5@gmail.com"
 When I enter all Mandatory details
       | Romia                   |
       | Julite                  |
